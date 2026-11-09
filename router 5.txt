@@ -1,0 +1,7 @@
+router rip
+version 2
+no auto-summary
+network 11.12.11.0
+network 194.168.10.0
+network 195.168.10.0
+network 13.12.10.0

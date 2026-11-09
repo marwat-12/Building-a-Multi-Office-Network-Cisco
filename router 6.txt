@@ -1,0 +1,19 @@
+en
+config
+router rip
+version 2
+no auto-summary
+network 196.168.10.0
+network 197.168.10.0
+network 13.12.10.0
+network 14.12.10.0
+
+
+do this again 
+
+en
+config
+router rip
+version 2
+no auto-summary
+network 197.168.10.0
